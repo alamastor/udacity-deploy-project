@@ -17,5 +17,13 @@
 1. Add SSH key for grader
 1. Remove remote login from Postgres
 1. Create user 'catalog'
-1. Create db role 'catalog'
+1. Create db role 'catalog' with low privileges
 1. Create database 'catalog'
+1. Clone app into /home/catalog
+1. Change app config to use postgres
+1. Run app scripts to generate key and populate db
+1. Create app WSGI script
+1. Pip install app requirements in virtualenv
+1. Edit Apache config to use wsgi script
+## Resources Used
+- [http://modwsgi.readthedocs.io/en/develop/]
