@@ -27,3 +27,6 @@
 1. Edit Apache config to use wsgi script
 ## Resources Used
 - http://modwsgi.readthedocs.io/en/develop/
+- http://flask.pocoo.org/docs/0.12/deploying/mod_wsgi/
+- https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
+- https://wiki.apache.org/httpd/ClientDeniedByServerConfiguration
