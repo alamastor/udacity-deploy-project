@@ -26,4 +26,4 @@
 1. Pip install app requirements in virtualenv
 1. Edit Apache config to use wsgi script
 ## Resources Used
-- [http://modwsgi.readthedocs.io/en/develop/]
+- http://modwsgi.readthedocs.io/en/develop/
